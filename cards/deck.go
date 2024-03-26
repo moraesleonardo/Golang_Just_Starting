@@ -1,7 +1,5 @@
 package main
 
-// Create a new type of 'deck'
-// which is a slice of strings
  import "fmt"
 
 type deck []string
